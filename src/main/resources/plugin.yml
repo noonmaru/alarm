@@ -1,0 +1,8 @@
+name: Alarm
+version: @version@
+main: com.github.noonmaru.alarm.AlarmPlugin
+authors: [Noonmaru]
+commands:
+  alarm:
+    permission: alarm.command
+    usage: /<command> add remove list
